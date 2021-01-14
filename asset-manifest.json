@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Home/static/css/main.57b80e13.chunk.css",
+    "main.js": "/Home/static/js/main.2efa394e.chunk.js",
+    "main.js.map": "/Home/static/js/main.2efa394e.chunk.js.map",
+    "runtime-main.js": "/Home/static/js/runtime-main.ebc3a747.js",
+    "runtime-main.js.map": "/Home/static/js/runtime-main.ebc3a747.js.map",
+    "static/js/2.2ae95c16.chunk.js": "/Home/static/js/2.2ae95c16.chunk.js",
+    "static/js/2.2ae95c16.chunk.js.map": "/Home/static/js/2.2ae95c16.chunk.js.map",
+    "static/js/3.1eaebe47.chunk.js": "/Home/static/js/3.1eaebe47.chunk.js",
+    "static/js/3.1eaebe47.chunk.js.map": "/Home/static/js/3.1eaebe47.chunk.js.map",
+    "index.html": "/Home/index.html",
+    "static/css/main.57b80e13.chunk.css.map": "/Home/static/css/main.57b80e13.chunk.css.map",
+    "static/js/2.2ae95c16.chunk.js.LICENSE.txt": "/Home/static/js/2.2ae95c16.chunk.js.LICENSE.txt",
+    "static/media/2.1c508bcc.jpg": "/Home/static/media/2.1c508bcc.jpg",
+    "static/media/3.f49918f9.jpg": "/Home/static/media/3.f49918f9.jpg",
+    "static/media/alan.1f064a1c.png": "/Home/static/media/alan.1f064a1c.png",
+    "static/media/tesla.a99109ce.png": "/Home/static/media/tesla.a99109ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebc3a747.js",
+    "static/js/2.2ae95c16.chunk.js",
+    "static/css/main.57b80e13.chunk.css",
+    "static/js/main.2efa394e.chunk.js"
+  ]
+}
